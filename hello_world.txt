@@ -1,0 +1,13 @@
+using system;
+
+namespace git_test
+{
+	class Main
+	{
+		private static void Main()
+		{
+			Console.WriteLine("O-la bambinos!");
+			//This is as much as i can remember from memory - fairly sure the class and namespace aren't setup correctly
+		}
+	}
+}
